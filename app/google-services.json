@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "672761966638",
+    "firebase_url": "https://qaapp-22eb0.firebaseio.com",
+    "project_id": "qaapp-22eb0",
+    "storage_bucket": "qaapp-22eb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672761966638:android:270fd73b85ad0791",
+        "android_client_info": {
+          "package_name": "jp.techacademy.takuya.okitsu.qa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672761966638-h7ukql1lh2lf1cl1m6erk3gb261qqnen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
